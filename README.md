@@ -1,6 +1,6 @@
   ![bbmeme](https://github.com/user-attachments/assets/f24ae4e2-c91d-4218-bd4a-d1bcdf892bd5)
 
-# Malicious Link Detection🕵🏼
+# Malicious Link Detection🔎
 The proposed machine learning model uses a Random Forest classifier to classify URLs as malicious or benign. The model focuses on analyzing a variety of features derived from the URL itself, such as structural attributes (e.g., URL length, number of special characters, or the presence of IP addresses) and lexical patterns.
 
 By leveraging these features, the Random Forest algorithm builds an ensemble of decision trees to make accurate and reliable predictions, helping to identify potentially harmful links efficiently
